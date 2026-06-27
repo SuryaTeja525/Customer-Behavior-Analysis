@@ -88,6 +88,12 @@ The project includes the following visualizations:
 - Use customer purchasing behavior to improve marketing strategies.
 
 ---
+## Dataset
+
+The dataset (`ecommerce_customer_data_large.csv`) is included in this repository. Since GitHub cannot preview large CSV files, you can also download it from Google Drive using the link below.
+
+**Google Drive Link:**
+https://drive.google.com/file/d/1Nb1d0JiaOeiO-zQWbLVPA5HB0u88-6mL/view?usp=sharing
 
 ## Author
 
